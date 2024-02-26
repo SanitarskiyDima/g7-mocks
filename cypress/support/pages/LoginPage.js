@@ -1,4 +1,3 @@
-import user from "../../fixtures/user.json";
 import BasePage from "./BasePage";
 
 class LoginPage extends BasePage{
